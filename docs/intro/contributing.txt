@@ -56,10 +56,14 @@ tools and the processes involved. Specifically, we'll be covering the following:
 * Installing Git.
 * How to download a development copy of Django.
 * Running Django's test suite.
-* Writing a test for your patch.
-* Writing the code for your patch.
-* Testing your patch.
-* Generating a patch file for your changes.
+* Create a branch.
+* Modify the code/documentation.
+* Writing a test for your branch.
+* Writing the code for your branch.
+* Testing your changes.
+* Commit your changes.
+* Push to your branch.
+* Create a Pull Request.
 * Where to look for more information.
 
 Once you're done with the tutorial, you can look through the rest of
